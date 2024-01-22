@@ -23,11 +23,11 @@ module.exports = {
   },
   devServer: {
     // 端口配置
-    port: 1888,
+    port: 13002,
     // 反向代理配置
     proxy: {
       '/api': {
-        target: 'http://localhost',
+        target: 'http://localhost:13001',
         ws: true,
         pathRewrite: {
           '^/api': '/'
