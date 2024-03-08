@@ -85,9 +85,9 @@
           //租户ID
           tenantId: "000000",
           //用户名
-          username: "admin",
+          username: "",
           //密码
-          password: "admin",
+          password: "",
           //账户类型
           type: "account",
           //验证码的值

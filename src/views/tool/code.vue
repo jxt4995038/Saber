@@ -124,7 +124,7 @@
               prop: "tablePrefix",
               hide: true,
               rules: [{
-                required: true,
+                required: false,
                 message: "请输入表前缀",
                 trigger: "blur"
               }]

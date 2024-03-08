@@ -1,5 +1,5 @@
 export default {
-  title: 'Saber Admin',
+  title: 'Tiktok Admin',
   logoutTip: 'Exit the system, do you want to continue?',
   submitText: 'submit',
   cancelText: 'cancel',
@@ -78,7 +78,7 @@ export default {
   },
   login: {
     title: 'Login ',
-    info: 'BladeX Development Platform',
+    info: 'Tiktok Development Platform',
     tenantId: 'Please input tenantId',
     username: 'Please input username',
     password: 'Please input a password',
